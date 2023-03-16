@@ -45,5 +45,5 @@ I learned how to make responsive website, i struggled before doing this challeng
 
 
 ## Author
-- Github - [correlucas](https://github.com/rezcoco/)
-- Frontend Mentor - [@correlucas](https://www.frontendmentor.io/profile/rezcoco)
+- Github - [rezcoco](https://github.com/rezcoco/)
+- Frontend Mentor - [@rezcoco](https://www.frontendmentor.io/profile/rezcoco)
